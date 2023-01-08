@@ -38,6 +38,6 @@ Large.args = {
 export const LargeLabel = Template.bind({})
 LargeLabel.args = {
     backgroundColor:'Green',
-    label:'press mescjndfkhsdkfsdkfgbdfjksdfbj jkfsdfvjh',
+    label:'press me anyway because i am a large text',
     size:'md'
 }
